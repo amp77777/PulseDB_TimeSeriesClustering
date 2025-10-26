@@ -1,0 +1,25 @@
+# Libraries required for PulseDB Time-Series Clustering Project
+
+# Numerical computing
+numpy
+pip install numpy
+
+# HDF5 file handling (for .mat files)
+h5py
+pip install h5py
+
+# Plotting and visualization
+matplotlib
+pip install matplotlib
+
+# Optional: For type hints (Python 3.5+ includes typing)
+typing
+# Included in standard Python, no installation needed
+
+# Random operations and data structures
+collections (defaultdict)
+# Included in standard Python, no installation needed
+
+# Optional: For distance calculations (if using scipy DTW)
+scipy
+pip install scipy
